@@ -1,0 +1,15 @@
+.page-portrait {
+  max-height:560px;
+  width:100%
+}
+.eyebrow {
+  color:var(--clr-gold);
+  text-transform:uppercase;
+  letter-spacing:3px;
+  font-size:.75rem;
+  font-weight:700;
+  margin-bottom:12px
+}
+.experience-card p {
+  color:var(--clr-muted)
+}
